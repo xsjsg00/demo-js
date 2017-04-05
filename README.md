@@ -1,2 +1,8 @@
-# demo-js
-ä¸€äº›å‰ç«¯ç»ƒä¹ 
+# °²×°¿ª·¢ÒÀÀµ
+npm install
+
+# ÔËĞĞÑéÖ¤
+npm run dev
+
+# ´ò°üÑ¹Ëõ Í¬Ê±¸²¸ÇÖÁweb³ÌĞòÖĞ
+npm run build
